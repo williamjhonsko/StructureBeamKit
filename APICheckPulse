@@ -1,0 +1,23 @@
+
+---
+
+### **2. 26_APICheckPulse**  
+**Description:**  
+Batch-checks endpoints and displays real-time API health and latency diagnostics.
+
+#### **README.md**
+```markdown
+# APICheckPulse - Real-Time API Status Monitor
+
+APICheckPulse monitors availability, speed, and error behavior of APIs and microservices.
+
+## Features
+- Parallelized HTTP checks  
+- Burst and delay alerts  
+- Export to JSON or CSV  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_APICheckPulse.git
+cd 26_APICheckPulse
+python monitor.py
