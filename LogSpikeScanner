@@ -1,0 +1,23 @@
+
+---
+
+### **3. 26_LogSpikeScanner**  
+**Description:**  
+Parses log files and detects spikes, repetition loops, and keyword-based warnings.
+
+#### **README.md**
+```markdown
+# LogSpikeScanner - Burst & Frequency Log Analyzer
+
+LogSpikeScanner simplifies incident detection by identifying log anomalies and activity surges.
+
+## Features
+- Spike and repetition detection  
+- Heatmap clustering  
+- CLI output for devops  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LogSpikeScanner.git
+cd 26_LogSpikeScanner
+python analyze.py logs/system.log
