@@ -1,0 +1,23 @@
+
+---
+
+### **4. 26_StreamGraphRoller**  
+**Description:**  
+Real-time charting utility for streaming numeric data with scrollable time-axis output.
+
+#### **README.md**
+```markdown
+# StreamGraphRoller - Live Scrolling Metric Plotter
+
+StreamGraphRoller renders clean, animated charts from fast-moving numeric streams in testing and production.
+
+## Features
+- Smooth live updates  
+- Adjustable scroll speed  
+- Built with Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_StreamGraphRoller.git
+cd 26_StreamGraphRoller
+python visualize.py
